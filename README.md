@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[YOUR_VERCEL_URL_HERE](https://your-vercel-url.vercel.app)**
+🔗 **fundchain-v3.vercel.app**
 
 ---
 
