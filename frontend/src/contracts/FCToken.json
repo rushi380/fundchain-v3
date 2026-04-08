@@ -1,0 +1,7 @@
+{
+  "_comment":   "Paste your FCToken contract ID after deploying",
+  "contractId": "CAG6OKIXAMOJSMTJRUJSTNMWXSVI4C6JV4EHMKAFBZOS4QDSERJES7EI",
+  "network":    "testnet",
+  "rpcUrl":     "https://soroban-testnet.stellar.org",
+  "passphrase": "Test SDF Network ; September 2015"
+}

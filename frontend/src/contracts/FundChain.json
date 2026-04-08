@@ -1,0 +1,7 @@
+{
+  "_comment":   "Paste your FundChain v3 contract ID after deploying",
+  "contractId": "CBMSNPGDUF4B3FROZ3UFFWXXY55O5MDKGAKSOOAAOCGYHFWAZGAKMQLK",
+  "network":    "testnet",
+  "rpcUrl":     "https://soroban-testnet.stellar.org",
+  "passphrase": "Test SDF Network ; September 2015"
+}
