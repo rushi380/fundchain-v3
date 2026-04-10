@@ -43,12 +43,9 @@
 
 ## 📊 Metrics Dashboard
 
-Live dashboard at `/dashboard` tab — pulls data directly from Stellar Horizon API.
+Live dashboard :
 
-> **Screenshot**: Add screenshot of dashboard after deployment.
-
-🔗 **[View FundChain on Horizon](https://horizon-testnet.stellar.org/accounts/REPLACE_WITH_FUNDCHAIN_ID)**
-🔗 **[View on Stellar Explorer](https://stellar.expert/explorer/testnet/contract/REPLACE_WITH_FUNDCHAIN_ID)**
+<img width="1919" height="973" alt="Screenshot 2026-04-10 155543" src="https://github.com/user-attachments/assets/7060c473-9d23-47f0-bd2a-8dca81111ed5" />
 
 ---
 
@@ -56,7 +53,7 @@ Live dashboard at `/dashboard` tab — pulls data directly from Stellar Horizon 
 
 Fully responsive across all screen sizes with CSS breakpoints.
 
-> **Screenshot**: Add mobile screenshot here.
+
 
 ---
 
@@ -244,19 +241,7 @@ node tests/fundchain.test.js
 
 ---
 
-## 📝 Submission Checklist — Level 6
 
-- [x] 30+ verified active users
-- [x] Metrics dashboard live (Dashboard tab)
-- [x] Security checklist completed (`docs/SECURITY.md`)
-- [x] Monitoring active (UptimeRobot)
-- [x] Data indexing implemented (Stellar Horizon API)
-- [x] Full documentation (this README)
-- [x] Community contribution (Twitter post)
-- [x] Advanced feature (milestone-based funding)
-- [x] 15+ meaningful commits
-
----
 
 ## 🔄 Improvement Plan (based on user feedback)
 
