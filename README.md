@@ -108,8 +108,6 @@ Key items:
 
 📣 **[Twitter/X Post](https://x.com/RushikesGaiwal/status/2042643752070910399?s=20)**
 
-> Post about FundChain Pro on Twitter with your Vercel link to satisfy the community contribution requirement.
-
 ---
 
 ## ⚡ Advanced Feature — Milestone-Based Funding
@@ -240,7 +238,7 @@ node tests/fundchain.test.js
 
 ---
 
-## 🔄 Improvement Plan (based on user feedback)
+## 🔄 Improvement Plan:
 
 **Issues**
 - Slow wallet connection  
