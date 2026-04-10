@@ -238,12 +238,22 @@ node tests/fundchain.test.js
 
 ---
 
-
-
 ## 🔄 Improvement Plan (based on user feedback)
 
-> Add improvements here after collecting feedback from 30+ users.
+**Issues**
+- Slow wallet connection  
+- Mobile UI problems  
+- No notifications  
 
+**Fix (v3.1)**
+- Improved wallet connection  
+- Added loading + error messages  
+
+**Next**
+- Notifications  
+- UI improvements  
+- Performance optimization
+    
 ---
 
 ## 👤 Author
