@@ -71,7 +71,8 @@ Fully responsive across all screen sizes with CSS breakpoints.
 
 GitHub Actions runs automatically on every push to `main`.
 
-<img width="1919" height="814" alt="Screenshot 2026-04-10 165000" src="https://github.com/user-attachments/assets/66fed5ff-f874-4238-b97e-16964ae9e6d7" />
+<img width="1896" height="971" alt="image" src="https://github.com/user-attachments/assets/5eeda55f-7f39-4e73-bc6a-1a1f0f2fb55d" />
+
 
 ---
 
@@ -105,7 +106,7 @@ Key items:
 
 ## 🐦 Community Contribution
 
-📣 **[Twitter/X Post](https://twitter.com/YOUR_POST_LINK)**
+📣 **[Twitter/X Post](https://x.com/RushikesGaiwal/status/2042643752070910399?s=20)**
 
 > Post about FundChain Pro on Twitter with your Vercel link to satisfy the community contribution requirement.
 
