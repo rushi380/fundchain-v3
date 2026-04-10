@@ -47,6 +47,12 @@
 
 ---
 
+## 📊 Monitoring Dashboard
+
+<img width="1919" height="973" alt="Screenshot 2026-04-10 155543" src="https://github.com/user-attachments/assets/9924a081-013f-497c-b1f1-bea67a3718ee" />
+
+---
+
 ## 📱 Mobile Responsive
 
 Fully responsive across all screen sizes with CSS breakpoints.
