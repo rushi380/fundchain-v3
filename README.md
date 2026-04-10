@@ -59,10 +59,7 @@ Fully responsive across all screen sizes with CSS breakpoints.
 
 GitHub Actions runs automatically on every push to `main`.
 
-- ✅ JS test suite (10 tests)
-- ✅ Frontend build verification
-
-> **Screenshot**: Add GitHub Actions screenshot here.
+<img width="1919" height="814" alt="Screenshot 2026-04-10 165000" src="https://github.com/user-attachments/assets/66fed5ff-f874-4238-b97e-16964ae9e6d7" />
 
 ---
 
