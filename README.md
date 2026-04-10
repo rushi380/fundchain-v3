@@ -4,6 +4,12 @@
 
 ---
 
+## 📊 Website Dashboard:
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/f236d016-00cb-4954-b9b9-cd0e3b1e0320" />
+
+---
+
 ## 🌐 Live Demo
 
 🔗 **fundchain-v3.vercel.app**
