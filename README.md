@@ -53,7 +53,7 @@ Live dashboard :
 
 Fully responsive across all screen sizes with CSS breakpoints.
 
-
+![WhatsApp Image 2026-04-10 at 4 15 09 PM](https://github.com/user-attachments/assets/bc02b8bb-af58-4601-a092-d37224c1a419)
 
 ---
 
@@ -85,13 +85,13 @@ Key items:
 
 | # | Wallet Address | Stellar Explorer |
 |---|----------------|-----------------|
-| 1  | REPLACE_WITH_WALLET_1  | [View](https://stellar.expert/explorer/testnet/account/WALLET_1) |
-| 2  | REPLACE_WITH_WALLET_2  | [View](https://stellar.expert/explorer/testnet/account/WALLET_2) |
-| 3  | REPLACE_WITH_WALLET_3  | [View](https://stellar.expert/explorer/testnet/account/WALLET_3) |
-| 4  | REPLACE_WITH_WALLET_4  | [View](https://stellar.expert/explorer/testnet/account/WALLET_4) |
-| 5  | REPLACE_WITH_WALLET_5  | [View](https://stellar.expert/explorer/testnet/account/WALLET_5) |
+| 1  | GADY24FFOBCTVQJIBCP6OCX6QPVODAQM4IEMYUKS5VSVN564XQPSWXGY  | [View](https://stellar.expert/explorer/testnet/account/GADY24FFOBCTVQJIBCP6OCX6QPVODAQM4IEMYUKS5VSVN564XQPSWXGY) |
+| 2  | GCATAASNFHODIKA4VTIEZHONZB3BGZJL42FXHHZ3VS6YKX2PCDIJ3LDY  | [View](https://stellar.expert/explorer/testnet/account/GCATAASNFHODIKA4VTIEZHONZB3BGZJL42FXHHZ3VS6YKX2PCDIJ3LDY) |
+| 3  | GBWDGDXAN4AW22OBEQADIOSK2GE7EFNDLZDTBJV6AP33SEPTGNNGFDAE  | [View](https://stellar.expert/explorer/testnet/account/GBWDGDXAN4AW22OBEQADIOSK2GE7EFNDLZDTBJV6AP33SEPTGNNGFDAE) |
+| 4  | GCHB2KGFMWFAM7HOQYUFNPQXAQMAY6U7OLXAP4BEJWIJWXBV6IDKB7DR  | [View](https://stellar.expert/explorer/testnet/account/GCHB2KGFMWFAM7HOQYUFNPQXAQMAY6U7OLXAP4BEJWIJWXBV6IDKB7DR) |
+| 5  | GBXU3XKT5W66VJOTZBEINMAXQYGJ7HYNFWITQQ6VQKZBHDQ2EX5ACG2F  | [View](https://stellar.expert/explorer/testnet/account/GBXU3XKT5W66VJOTZBEINMAXQYGJ7HYNFWITQQ6VQKZBHDQ2EX5ACG2F) |
 
-> Add 30+ real wallet addresses after collecting users
+> Added 30+ real wallet addresses after collecting users data:
 
 ---
 
