@@ -98,7 +98,7 @@ Key items:
 | 4  | GCHB2KGFMWFAM7HOQYUFNPQXAQMAY6U7OLXAP4BEJWIJWXBV6IDKB7DR  | [View](https://stellar.expert/explorer/testnet/account/GCHB2KGFMWFAM7HOQYUFNPQXAQMAY6U7OLXAP4BEJWIJWXBV6IDKB7DR) |
 | 5  | GBXU3XKT5W66VJOTZBEINMAXQYGJ7HYNFWITQQ6VQKZBHDQ2EX5ACG2F  | [View](https://stellar.expert/explorer/testnet/account/GBXU3XKT5W66VJOTZBEINMAXQYGJ7HYNFWITQQ6VQKZBHDQ2EX5ACG2F) |
 
-> Added 30+ real wallet addresses after collecting users data:
+> Added 30+ real wallet addresses and users details:
 👉 **[User Onboarding & Details Form](https://docs.google.com/spreadsheets/d/1OTEPNE6nxbRn4Nn_jgYRBvbFKJb1t6JJ-trwS7Disqo/edit?usp=sharing)**
 
 ---
