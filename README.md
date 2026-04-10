@@ -12,7 +12,7 @@
 
 ## 🎥 Demo Video
 
-📹 **[Watch demo](https://your-loom-link-here)**
+📹 **[Watch demo](https://www.loom.com/share/982f2970167f4e328507cf0d1e0dc311)**
 
 ---
 
@@ -43,9 +43,7 @@
 
 ## 📊 Metrics Dashboard
 
-Live dashboard :
-
-<img width="1919" height="973" alt="Screenshot 2026-04-10 155543" src="https://github.com/user-attachments/assets/7060c473-9d23-47f0-bd2a-8dca81111ed5" />
+<img width="1919" height="891" alt="Screenshot 2026-04-10 164009" src="https://github.com/user-attachments/assets/53ac1286-26c6-4c62-bc31-449612c97f4d" />
 
 ---
 
@@ -157,22 +155,12 @@ GET /ledgers?limit=1&order=desc          → current ledger stats
 
 | Contract | Address |
 |---|---|
-| FundChain v3 | `REPLACE_WITH_FUNDCHAIN_CONTRACT_ID` |
-| FCToken (FCT) | `REPLACE_WITH_FCTOKEN_CONTRACT_ID` |
+| FundChain v3 | `CBMSNPGDUF4B3FROZ3UFFWXXY55O5MDKGAKSOOAAOCGYHFWAZGAKMQLK` |
+| FCToken (FCT) | `CAG6OKIXAMOJSMTJRUJSTNMWXSVI4C6JV4EHMKAFBZOS4QDSERJES7EI` |
 
 ---
 
-## 🔗 Transaction Hashes
 
-| Action | TX Hash |
-|---|---|
-| FCToken deploy | `REPLACE_WITH_TX_HASH` |
-| FundChain deploy | `REPLACE_WITH_TX_HASH` |
-| FCToken initialize | `REPLACE_WITH_TX_HASH` |
-| FundChain initialize | `REPLACE_WITH_TX_HASH` |
-| set_minter call | `REPLACE_WITH_TX_HASH` |
-
----
 
 ## 🛠 Tech Stack
 
